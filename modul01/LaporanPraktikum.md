@@ -35,7 +35,7 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal01.png)
-[penjelasan]
+[Program tersebut digunakan untuk menerima tiga input string dari pengguna lalu menukar urutannya. Program menyimpan input ke dalam variabel satu, dua, tiga, lalu menampilkan output awal sesuai urutan yang dimasukan. Program menggunakan variabel temp sebagai penyimpan sementara untuk menukar posisi nilai sehingga urutannya berubah, yaitu satu menjadi dua, dua menjadi tiga dan tiga menjadi satu.]
 
 
 ### 2. [Soal 2]
@@ -65,7 +65,7 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal02.png)
-[penjelasan]
+[Program tersebut digunakan untuk mengecek urutan warna pada empat gelas. Program melakukan 5 kali percobaan dengan meminta pengguna memasukan empat warna. Jika urutannya merah, kuning, hijau, ungu, maka hasil yang keluar adalah BERHASIL, jika tidak sesuai dengan urutan maka akan FALSE. ]
 
 
 ### 3. [Soal 3]
@@ -110,4 +110,4 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal03.png)
-[penjelasan]
+[Program tersebut digunakan untuk menghitung biaya pengiriman parsel berdasarkan beratnya. Pengguna memasukan berat dalam gram, lalu program mengubahnya menjadi kg dan sisa gram. Biaya dihitung 10.000 per kg, sedangkan sisa gram dikenakan biaya tambahan sesuai kondisi. Lalu program menampilkan detail berat dan total biaya pengiriman.]
