@@ -21,5 +21,4 @@ func main() {
 
 	fmt.Println(permutasi(a, c), combinasi(a, c))
 	fmt.Println(permutasi(b, d), combinasi(b, d))
-
 }
