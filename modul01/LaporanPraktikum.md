@@ -64,7 +64,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal01.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal02.png)
 [Program tersebut digunakan untuk mengecek urutan warna pada empat gelas. Program melakukan 5 kali percobaan dengan meminta pengguna memasukan empat warna. Jika urutannya merah, kuning, hijau, ungu, maka hasil yang keluar adalah BERHASIL, jika tidak sesuai dengan urutan maka akan FALSE. ]
 
 
@@ -109,5 +109,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal01.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul01/output/output-soal03.png)
 [Program tersebut digunakan untuk menghitung biaya pengiriman parsel berdasarkan beratnya. Pengguna memasukan berat dalam gram, lalu program mengubahnya menjadi kg dan sisa gram. Biaya dihitung 10.000 per kg, sedangkan sisa gram dikenakan biaya tambahan sesuai kondisi. Lalu program menampilkan detail berat dan total biaya pengiriman.]
