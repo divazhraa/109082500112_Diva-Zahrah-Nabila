@@ -49,7 +49,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-[Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal1.png)
+[Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal1.1.png)
 [Program ini bertujuan untuk menghitung nilai permutasi dan kombinasi dari dua pasang bilangan dengan menggunakan prosedur. Pengguna memasukkan empat bilangan, lalu program memproses dua pasangan bilangan tersebut dan menampilkan hasil permutasi serta kombinasi masing-masing.Semua hasil dikembalikan melalui parameter pointer sehingga menunjukkan penggunaan prosedur]
 
 
@@ -98,7 +98,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal2.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal1.2.png)
 [Program ini digunakan untuk menentukan pemenang berdasarkan jumlah soal yang berhasil diselesaikan dan total waktu tercepat. Setiap peserta memasukkan nama dan waktu pengerjaan untuk 8 soal, di mana hanya waktu ≤300 menit yang dihitung. Pemenang dipilih dari peserta dengan soal terbanyak, dan jika sama, maka yang memiliki total waktu paling kecil akan menjadi pemenang.]
 
 ### 3. Skiena dan Revilla dalam Programming Challenges mendefinisikan sebuah deret bilangan Deret dimulai dengan sebuah bilangan bulat n. Jika bilangan n saat itu genap, maka suku berikutnya adalah 1⁄2n, tetapi jika ganjil maka suku berikutnya bernilai 3n+1. Rumus yang sama digunakan terus menerus untuk mencari suku berikutnya. Deret berakhir ketika suku terakhir bernilai 1.
@@ -131,5 +131,5 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal3.png)
+![Screenshot Output Unguided 1_!] (https://github.com/divazhraa/109082500112_Diva-Zahrah-Nabila/blob/main/modul03/output/output-soal1.3.png)
 [Program ini berfungsi untuk menampilkan deret angka berdasarkan suatu bilangan input dengan menggunakan aturan tertentu (mirip dengan konsep Collatz). Setelah pengguna memasukkan sebuah bilangan, program akan mencetak nilai tersebut secara berurutan, di mana jika bilangan bernilai genap maka akan dibagi 2, sedangkan jika ganjil akan dikalikan 3 lalu ditambah 1. Proses ini dilakukan berulang hingga mencapai angka 1, dan seluruh deret angka ditampilkan secara berurutan sebagai output.]
